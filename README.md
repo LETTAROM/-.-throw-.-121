@@ -1,5 +1,5 @@
 # -.-throw-.-121
-Генерация исключений. throw . #121
+//Генерация исключений. throw . #121
 void Foo(int value)
 {
 	if (value<0)
